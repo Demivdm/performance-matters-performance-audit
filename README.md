@@ -10,7 +10,7 @@ Voor de preformance audit heb ik de website van Riot games getest. Riot games is
 
 ![image](https://user-images.githubusercontent.com/112861166/232769179-0da3e27a-ea17-4ead-b4b3-58bc960750b2.png)
 
-Bekijk hieronder de resulaten van de preformance audit
+## Bekijk hieronder de resulaten en samenvatting van de preformance audit
 
 ![image](https://user-images.githubusercontent.com/112861166/232769474-490d1057-e348-496c-bd17-77ee207312b8.png)
 
